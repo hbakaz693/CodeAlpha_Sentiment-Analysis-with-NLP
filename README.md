@@ -68,14 +68,10 @@ Sentiment-Analysis/
 │
 ├── dataset.csv
 ├── sentiment_pipeline.pkl
-├── app.py
-├── notebook.ipynb
+├── Sentiment_Analysis.ipynb
 ├── requirements.txt
 ├── README.md
-│
-└── screenshots/
-    ├── home.png
-    └── result.png
+  
 </pre>
 
 <h2>11. Installation</h2>
