@@ -112,3 +112,32 @@ http://localhost:8501
   <li>Improve model accuracy with larger datasets</li>
   <li>Enable real-time sentiment analysis</li>
 </ul>
+
+
+<h2>15. Author</h2>
+
+<div align="center">
+
+<h3>Hicham Bakaz</h3>
+
+<p>
+Master's Student in Intelligent Web and Data Science
+</p>
+
+<p>
+Data Science | Machine Learning | Artificial Intelligence
+</p>
+
+<p>
+<a href="https://github.com/hbakaz693">
+  <img src="https://img.shields.io/badge/GitHub-hbakaz693-black?style=for-the-badge&logo=github" />
+</a>
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Built%20with-Python-blue?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Machine%20Learning-Scikit--Learn-orange?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/NLP-Sentiment%20Analysis-green?style=for-the-badge" />
+</p>
+
+</div>
