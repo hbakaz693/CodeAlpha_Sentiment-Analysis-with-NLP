@@ -60,3 +60,55 @@ The dataset contains text comments with sentiment labels.
 <p>
   <img width="392" height="145" alt="image" src="https://github.com/user-attachments/assets/c4ebc337-35e7-4028-a8b6-d3fda7e2bf7e" />
 </p>
+
+<h2>10. Project Structure</h2>
+
+<pre>
+Sentiment-Analysis/
+│
+├── dataset.csv
+├── sentiment_pipeline.pkl
+├── app.py
+├── notebook.ipynb
+├── requirements.txt
+├── README.md
+│
+└── screenshots/
+    ├── home.png
+    └── result.png
+</pre>
+
+<h2>11. Installation</h2>
+
+<pre>
+git clone https://github.com/your-username/sentiment-analysis.git
+
+cd sentiment-analysis
+
+pip install -r requirements.txt
+</pre>
+
+<h2>12. How to Run</h2>
+
+<pre>
+streamlit run app.py
+</pre>
+
+<p>
+Open your browser and navigate to:
+</p>
+
+<pre>
+http://localhost:8501
+</pre>
+
+<h2>13. Future Improvements</h2>
+
+<ul>
+  <li>Support Neutral sentiment classification</li>
+  <li>Experiment with advanced NLP models (BERT, RoBERTa)</li>
+  <li>Deploy the application online</li>
+  <li>Add sentiment visualization dashboards</li>
+  <li>Improve model accuracy with larger datasets</li>
+  <li>Enable real-time sentiment analysis</li>
+</ul>
