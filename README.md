@@ -35,3 +35,22 @@ The dataset contains text comments with sentiment labels.
 <img src="https://img.shields.io/badge/Scikit--Learn-orange?style=for-the-badge&logo=scikitlearn&logoColor=white" />
 <img src="https://img.shields.io/badge/Streamlit-red?style=for-the-badge&logo=streamlit&logoColor=white" />
 </p>
+
+<h2>5. Project Workflow</h2>
+
+<ol>
+  <li>Data Collection</li>
+  <li>Data Preprocessing</li>
+  <li>Text Cleaning</li>
+  <li>Feature Extraction (TF-IDF)</li>
+  <li>Train-Test Split</li>
+  <li>Model Training</li>
+  <li>Model Evaluation</li>
+  <li>Prediction</li>
+</ol>
+
+<h2>6. Machine Learning Model</h2>
+
+<p>
+<img src="https://img.shields.io/badge/Model-Logistic%20Regression-blue?style=for-the-badge" />
+</p>
