@@ -58,5 +58,5 @@ The dataset contains text comments with sentiment labels.
 <h2>7. Results</h2>
 
 <p>
-  <img src="<img width="392" height="145" alt="image" src="https://github.com/user-attachments/assets/ab045ca5-3aa2-4bb4-afbb-1ac912c18178" />
+  <img width="392" height="145" alt="image" src="https://github.com/user-attachments/assets/c4ebc337-35e7-4028-a8b6-d3fda7e2bf7e" />
 </p>
