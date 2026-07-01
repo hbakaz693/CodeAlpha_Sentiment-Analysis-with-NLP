@@ -98,6 +98,15 @@ Open your browser and navigate to:
 http://localhost:8501
 </pre>
 
+<h2>Test</h2>
+
+<p>
+  
+  <img width="677" height="137" alt="image" src="https://github.com/user-attachments/assets/12beee63-a23f-4e9f-9363-36508b43b023" />
+
+  
+</p>
+
 <h2>13. Future Improvements</h2>
 
 <ul>
